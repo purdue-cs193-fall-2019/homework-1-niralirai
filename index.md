@@ -1,3 +1,14 @@
+# Nirali's First CS193 Homework
+
+### My Favorite Things About CS193
+- This class has amazing lecturers
+- My TAs are super nice
+- Vim
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
